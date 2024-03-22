@@ -6,14 +6,16 @@ import java.util.List;
 public class Cuptor {
     private static Cuptor instance = null;
     private List<Preparat> listaAsteptare = null;
+    private int gradeMaxim;
 
-    private Cuptor(){
+    private Cuptor(int gradeMaxim){
         this.listaAsteptare = new ArrayList<>();
+        this.gradeMaxim=gradeMaxim;
     }
 
-    public static Cuptor getInstance() {
+    public static Cuptor getInstance(int gradeMaxim) {
         if(instance == null){
-            instance = new Cuptor();
+            instance = new Cuptor(gradeMaxim);
         }
         return instance;
     }
