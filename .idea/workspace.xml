@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dd8f8b5-7d3d-4e99-9767-91fe396bd03f" name="Changes" comment="Probleme curs">
-      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/CuptorMultiplu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Factory/SimpleFactory/ETipPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Factory/SimpleFactory/IPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Factory/SimpleFactory/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Factory/SimpleFactory/PizzaRoma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Factory/SimpleFactory/PizzaVegetariana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Factory/SimpleFactory/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/Cuptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/Cuptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/CuptorMultiplu.java" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementariLaClasa/src/March16/Singleton/Multiplu/CuptorMultiplu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +22,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eddyzek"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="caeb39e8-e30f-4f9c-a4c5-99205ab1b5c3" />
+        <option name="url" value="https://github.com/eddyzek/Zwak_Eduard-Gabriel_ActivitateCTS2024.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711146218306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Probleme curs">
+      <option name="closed" value="true" />
+      <created>1711149366137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711149366137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
