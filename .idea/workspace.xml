@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd8f8b5-7d3d-4e99-9767-91fe396bd03f" name="Changes" comment="Probleme curs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ImplementariLaClasa/March16/Singleton/Multiplu/Cuptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ImplementariLaClasa/March16/Singleton/Multiplu/Preparat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ImplementariLaClasa/March16/Singleton/Multiplu/Program.class" beforeDir="false" />
-    </list>
+    <list default="true" id="0dd8f8b5-7d3d-4e99-9767-91fe396bd03f" name="Changes" comment="Probleme design patterns - Spital" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,16 +54,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Problema10.executor": "Run",
+    "Application.Problema6.executor": "Run",
+    "Application.Problema7.executor": "Run",
+    "Application.Problema8.executor": "Run",
+    "Application.Problema9.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.Program1.executor": "Run",
+    "Application.Program1A.executor": "Run",
+    "Application.Program2.executor": "Run",
+    "Application.Program3.executor": "Run",
+    "Application.Program4.executor": "Run",
+    "Application.Program5.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Problema6.enums" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -114,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711152585244</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Probleme curs">
+      <option name="closed" value="true" />
+      <created>1711153807839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711153807839</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Probleme design patterns - Spital">
+      <option name="closed" value="true" />
+      <created>1717018829225</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717018829225</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Probleme curs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Probleme curs" />
+    <MESSAGE value="Probleme design patterns - Spital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Probleme design patterns - Spital" />
   </component>
 </project>
